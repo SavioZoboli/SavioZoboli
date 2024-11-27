@@ -1,16 +1,13 @@
-## Hi there 👋
+##Olá! Sou Sávio Zoboli
 
-<!--
-**SavioZoboli/SavioZoboli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou amante da tecnologia e fissurado por automatização! 🤖♥️
 
-Here are some ideas to get you started:
+Como sempre digo:
+>Se algo é custoso para fazer, há um jeito de automatizar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Especialista em Ensino I no SENAI de Indaial 🥸
+
+#### Cursando Superior em Análise e Desenvolvimento de Sistemas na UniSENAI 👨‍🎓
+
+Adoro o desenvolvimento FrontEnd e trabalhar conceitos de Experiência de Usuário!
+Meu sonho é um dia termos sistemas interconectados para facilitar a vida da população e todos os cidadãos terem acesso à informações úteis!
