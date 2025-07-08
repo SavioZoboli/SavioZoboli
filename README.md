@@ -10,11 +10,11 @@
 
 ### 🔹 [Sensora](https://github.com/saviozoboli/sensora)
 > Sistema inteligente de monitoramento residencial, integrando sensores de qualidade e consumo de água, energia e IA para tomada de decisão.  
-**Tecnologias**: Node.js · TypeScript · MongoDB · WebSockets · IoT
+**Tecnologias**: Node.js · TypeScript · Postgres · WebSockets · IoT
 
 ### 🔸 [GLITCH](https://github.com/saviozoboli/glitch)
 > Plataforma para o universo dos e-sports com foco em streamers e campeonatos online. Responsável pelo UX e design do sistema.  
-**Tecnologias**: Angular · Firebase · Figma · UX Design
+**Tecnologias**: Angular · Postgres · Figma · UX Design
 
 ---
 
