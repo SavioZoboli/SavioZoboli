@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGx0dGxxaXRqbmQzMW5qM2lxeG9laDZjbXFmZTlmZ2ViMzRsZjlicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ES9cAJlcxblRESzOH1/giphy.gif" width="50%" alt="Coding gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ6c2F4M3kyYXhncmV5Z2dhdzM5eG1mYTI1cmgwbGY1dmF3ZWprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/luOncmGGhXtMh3gVQB/giphy.gif" width="100%" alt="Coding gif"/>
 
 
 <h1 align="center" style="color:#fff;">👨‍💻 Sávio Eduardo Zoboli</h1>
