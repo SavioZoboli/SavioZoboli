@@ -45,15 +45,6 @@ Transformando ideias em interfaces polidas e protótipos funcionais. Sou Docente
 
 ---
 
-## 🏆 Certificações AWS
-
-<div align="center">
-  <a href="https://www.credly.com/badges/1fa21c1a-234e-4254-9a91-eee23647888d/public_url" target="_blank"><img src="https://www.credly.com/badges/1fa21c1a-234e-4254-9a91-eee23647888d/public_url" width="150"></a>
-  <a href="https://www.credly.com/badges/692d6aa4-af12-44ef-96ed-d98d1db1868b/public_url" target="_blank"><img src="https://www.credly.com/badges/692d6aa4-af12-44ef-96ed-d98d1db1868b/public_url" width="150"></a>
-  <a href="https://www.credly.com/badges/3f4c9784-5d3f-49f7-b17f-19c0a90204b8/public_url" target="_blank"><img src="https://www.credly.com/badges/3f4c9784-5d3f-49f7-b17f-19c0a90204b8/public_url" width="150"></a>
-</div>
-
----
 
 ## 📊 Estatísticas GitHub
 
