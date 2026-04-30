@@ -1,35 +1,57 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ6c2F4M3kyYXhncmV5Z2dhdzM5eG1mYTI1cmgwbGY1dmF3ZWprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/luOncmGGhXtMh3gVQB/giphy.gif" width="100%" alt="Coding gif"/>
 
-
 <h1 align="center" style="color:#fff;">👨‍💻 Sávio Eduardo Zoboli</h1>
 
-<p align="center" style="color:#ccc;">Desenvolvedor focado em criar soluções inteligentes com impacto real. Me interesso por projetos que integram tecnologia, usabilidade e análise de dados — especialmente nos contextos de <strong>IoT</strong>, <strong>e-sports</strong> e <strong>sistemas web escaláveis</strong>.</p>
+<p align="center" style="color:#ccc;">
+Transformando ideias em interfaces polidas e protótipos funcionais. Sou Docente no SENAI e estudante de Análise e Desenvolvimento de Sistemas (ADS - 2026). Focado no <strong>Front-End</strong> e no <strong>Design de Interfaces</strong>, busco o embelezamento de sistemas e soluções inteligentes. No hardware, exploro integrações físicas através do <strong>Programa Excelência 4.0</strong> (IoT). Fora do código convencional, divido meu tempo entre minha esposa, minha filha, testes na mixologia e o desenvolvimento do meu próprio SaaS, o WorkBit.
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-### 🔹 [Sensora](https://github.com/saviozoboli/sensora)
-> Sistema inteligente de monitoramento residencial, integrando sensores de qualidade e consumo de água, energia e IA para tomada de decisão.  
-**Tecnologias**: Node.js · TypeScript · Postgres · WebSockets · IoT
+### 🔹 WorkBit *(Em Desenvolvimento, Privado)*
+> Minha atual aposta no desenvolvimento de SaaS. O projeto foca em resolver dores reais de gestão com uma arquitetura moderna e interface focada na experiência do usuário. 
+**Tecnologias**: Angular · Node.js · PostgreSQL · SCSS · Figma · UX Design
 
-### 🔸 [GLITCH](https://github.com/saviozoboli/glitch)
-> Plataforma para o universo dos e-sports com foco em streamers e campeonatos online. Responsável pelo UX e design do sistema.  
-**Tecnologias**: Angular · Postgres · Figma · UX Design
+### 🔸 [GLITCH](https://github.com/saviozoboli/glitch) *(Projeto Aplicado)*
+> Plataforma voltada para o universo dos e-sports, conectando streamers e organizadores de campeonatos online. Fui o principal responsável por toda a prototipação, UX/UI Design e implementação visual do sistema.  
+**Tecnologias**: Angular · Node.js · Postgres · Figma · UX Design
 
 ---
 
-## 🧠 Tecnologias e ferramentas
+## 🧠 Tecnologias e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Stack Principal & Uso Diário:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Outras Tecnologias & Conhecimentos:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Infraestrutura & Prototipação:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Certificações AWS
+
+<div align="center">
+  <a href="https://www.credly.com/badges/1fa21c1a-234e-4254-9a91-eee23647888d/public_url" target="_blank"><img src="https://www.credly.com/badges/1fa21c1a-234e-4254-9a91-eee23647888d/public_url" width="150"></a>
+  <a href="https://www.credly.com/badges/692d6aa4-af12-44ef-96ed-d98d1db1868b/public_url" target="_blank"><img src="https://www.credly.com/badges/692d6aa4-af12-44ef-96ed-d98d1db1868b/public_url" width="150"></a>
+  <a href="https://www.credly.com/badges/3f4c9784-5d3f-49f7-b17f-19c0a90204b8/public_url" target="_blank"><img src="https://www.credly.com/badges/3f4c9784-5d3f-49f7-b17f-19c0a90204b8/public_url" width="150"></a>
+</div>
 
 ---
 
@@ -50,6 +72,5 @@
 ---
 
 <p align="center" style="color:#888;">
-  <em>“Soluções elegantes, úteis e bem pensadas — é isso que busco construir com código.”</em>
+  <em>“Código bem feito é aquele que equilibra a solidez da lógica com o capricho do design.”</em>
 </p>
-
