@@ -26,8 +26,8 @@
 ## 🚀 Projetos em Destaque
 
 ### 🔹 Smartlock *(Em Desenvolvimento, Privado)*
-> Sistema inteligente voltado à segurança patrimonial, focado no controle de acesso e inventário automatizado de equipamentos de alto valor[cite: 1]. O hardware atua de forma autônoma, validando tags RFID e registrando movimentações em memória flash local durante quedas de rede para garantir resiliência operacional[cite: 1]. A orquestração dos dados é feita de forma bidirecional via MQTT, alimentando uma API Node.js e um painel de gestão web[cite: 1].
-**Tecnologias**: C++ · ESP32 · MQTT · Node.js · Angular · PostgreSQL[cite: 1]
+> Sistema inteligente voltado à segurança patrimonial, focado no controle de acesso e inventário automatizado de equipamentos de alto valor. O hardware atua de forma autônoma, validando tags RFID e registrando movimentações em memória flash local durante quedas de rede para garantir resiliência operacional. A orquestração dos dados é feita de forma bidirecional via MQTT, alimentando uma API Node.js e um painel de gestão web.
+**Tecnologias**: C++ · ESP32 · MQTT · Node.js · Angular · PostgreSQL
 
 ### 🔸 WorkBit *(Em Desenvolvimento, Privado)*
 > Plataforma SaaS corporativa criada para resolver gargalos reais de gestão, fundamentada em metodologias como PDCA e OKRs. Arquitetura moderna com foco em performance e em uma experiência do usuário impecável.
