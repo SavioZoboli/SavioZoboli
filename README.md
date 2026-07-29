@@ -1,6 +1,13 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ6c2F4M3kyYXhncmV5Z2dhdzM5eG1mYTI1cmgwbGY1dmF3ZWprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/luOncmGGhXtMh3gVQB/giphy.gif" width="100%" alt="Coding gif"/>
+
 
 <h1 align="center">👨‍💻 Sávio Eduardo Zoboli</h1>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Sincronizando+sensores+e+hardware+via+MQTT...;Compilando+interfaces+com+Angular+e+SCSS...;Rodando+triggers+no+Postgres...;Abrindo+portas+com+ESP32...;Protegendo+ativos+empresariais...;Calculando+as+proporções+perfeitas+do+coquetel..." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Conectando o mundo físico ao digital: Indústria 4.0, IoT e Interfaces de Alta Performance</strong>
