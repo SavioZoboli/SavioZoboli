@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Sincronizando+sensores+e+hardware+via+MQTT...;Compilando+interfaces+com+Angular+e+SCSS...;Rodando+triggers+no+Postgres...;Abrindo+portas+com+ESP32...;Protegendo+ativos+empresariais...;Calculando+as+proporções+perfeitas+do+coquetel..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Sincronizando+sensores+e+hardware+via+MQTT+.+.+.;Compilando+interfaces+com+Angular+e+SCSS+.+.+.;Rodando+triggers+no+Postgres+.+.+.;Abrindo+portas+com+ESP32+.+.+.;Protegendo+ativos+empresariais+.+.+.;Calculando+as+proporções+perfeitas+do+coquetel+.+.+." alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center" style="color:#ccc;">
-  Transformo ideias em ecossistemas completos, da captura de dados no hardware à renderização na interface. No front-end, construo arquiteturas robustas e responsivas utilizando <strong>Angular e TypeScript</strong>. Na infraestrutura e hardware, estruturo soluções de Indústria 4.0 desenvolvendo firmware em <strong>C++</strong> e orquestrando a telemetria de sensores via protocolos assíncronos como <strong>MQTT</strong>. Fora do código tradicional, divido meu tempo entre minha família, testes na mixologia, a arquitetura do meu próprio SaaS de gestão (WorkBit) e o desenvolvimento de lógicas complexas no meu indie game (Andara).
+  Transformo ideias em ecossistemas completos, da captura de dados no hardware à renderização na interface. No front-end, construo arquiteturas robustas e responsivas utilizando <strong>Angular e TypeScript</strong>. Na infraestrutura e hardware, estruturo soluções de Indústria 4.0 desenvolvendo firmware em <strong>C++</strong> e orquestrando a telemetria de sensores via protocolos assíncronos como <strong>MQTT</strong>. Fora do código tradicional, divido meu tempo entre minha família, pratico mixologia e culinária e jogo casualmente.
 </p>
 
 ---
@@ -65,8 +65,10 @@
 ## 📊 Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saviozoboli&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true&count_private=true&bg_color=0D1117&border_color=30363D" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviozoboli&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=30363D" alt="Top Languages" />
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SavioZoboli&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=SavioZoboli&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SavioZoboli&layout=compact&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=SavioZoboli&layout=compact&langs_count=4&theme=catppuccin_mocha)
 </div>
 
 ---
