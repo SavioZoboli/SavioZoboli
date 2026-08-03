@@ -64,12 +64,14 @@
 
 ## 📊 Analytics
 
-<div align="center">
+<div align="left">
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SavioZoboli&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=SavioZoboli&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SavioZoboli&layout=compact&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=SavioZoboli&layout=compact&langs_count=4&theme=catppuccin_mocha)
 </div>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=6a9a17af-f824-41ed-aee4-b07e7e1f2e40&langs_count=4&theme=catppuccin_mocha)](https://wakatime.com/@6a9a17af-f824-41ed-aee4-b07e7e1f2e40)
 
 ---
 
